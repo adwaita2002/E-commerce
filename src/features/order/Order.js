@@ -7,7 +7,7 @@ import {
   incrementAsync,
   
   selectCount,
-} from './counterSlice';
+} from './OrderSlice';
 
 
 export default function Counter() {
